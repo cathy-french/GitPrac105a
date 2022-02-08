@@ -16,6 +16,8 @@ __*Bold* but only partly italic
 
 Here is a new line
 
+Added another line (line 19)
+
 ## Quotes
 
 > Friends, Romans, Countrymen, lend me your ears
