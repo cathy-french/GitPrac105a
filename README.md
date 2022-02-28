@@ -1,7 +1,11 @@
-# This is Haris Branch, Stay away!
 
-This is plain text
+This is plain text **Adam made some changes**
+
+
+# This is Haris Branch, Stay away!
+# This is a h1 header
 # This is Jay's header
+
 ### This is a h3 header
 
 ###### This is a h6 header
@@ -19,7 +23,7 @@ __*Bold* but only partly italic
 Here is a new line
 
 Added another line (line 19)
-
+added this to create conflict
 ## Quotes
 
 > Friends, Romans, Countrymen, lend me your ears
