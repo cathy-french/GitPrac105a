@@ -38,7 +38,7 @@ Added another line (line 19)
 
 This is an asterisk \*
 
-![A picture](CastleSnow.jpg)
+![Cat](https://cdn2.thecatapi.com/images/CvzKRRFZC.jpg)
 
 https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
 
