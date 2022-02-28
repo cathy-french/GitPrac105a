@@ -50,11 +50,7 @@ public static void Main() {
 }
 ```
 
-```java
-public static void main() {
-   System.out.print("Hello World)";
-}
-```
+deleted java code
 
 ### Task lists
 - [ ] This is a list item
