@@ -1,5 +1,7 @@
+# This is Haris Branch, Stay away!
+
 This is plain text
-# This is a h1 header
+# This is Jay's header
 ### This is a h3 header
 
 ###### This is a h6 header
@@ -38,11 +40,13 @@ Added another line (line 19)
 
 This is an asterisk \*
 
-![A picture](CastleSnow.jpg)
+![Cat](https://cdn2.thecatapi.com/images/CvzKRRFZC.jpg)
 
 https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
 
 - [Link to the quote](#quote)
+
+Watch out there is Java code below
 
 ```csharp
 public static void Main() {
@@ -65,7 +69,11 @@ Pete | Broad St. | Manchester
 :+1:
  <!-- This is the `Main` method  -->
 
+
 line added at bottom
+
+ some new text
+
 
 
 
