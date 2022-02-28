@@ -44,6 +44,8 @@ https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
 
 - [Link to the quote](#quote)
 
+Watch out there is Java code below
+
 ```csharp
 public static void Main() {
    Console.WriteLine("Hello World)";
