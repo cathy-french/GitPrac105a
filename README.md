@@ -54,11 +54,7 @@ public static void Main() {
 }
 ```
 
-```java
-public static void main() {
-   System.out.print("Hello World)";
-}
-```
+deleted java code
 
 ### Task lists
 - [ ] This is a list item
@@ -72,6 +68,9 @@ Pete | Broad St. | Manchester
 
 :+1:
  <!-- This is the `Main` method  -->
+
+
+line added at bottom
 
  some new text
 
